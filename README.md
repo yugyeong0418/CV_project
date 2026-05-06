@@ -1,6 +1,6 @@
 
-# 프로젝트 이름
-
+# CV_project
+CV_group_project
 
 
 
@@ -9,9 +9,3 @@
 2. 각자 브랜치 만들어서 작업하기
 3. 작업 후 Pull Request 만들기
 4. 확인 후 main에 merge하기
-=======
-# CV_project
-CV_group_project
-
-
-
